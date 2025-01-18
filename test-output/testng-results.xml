@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-18T23:51:28 EET" name="Default suite" finished-at="2025-01-18T23:51:48 EET" duration-ms="19747">
+    <groups>
+    </groups>
+    <test started-at="2025-01-18T23:51:28 EET" name="Default test" finished-at="2025-01-18T23:51:48 EET" duration-ms="19747">
+      <class name="myPackage.myTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:28 EET" name="mySetup" finished-at="2025-01-18T23:51:31 EET" duration-ms="3133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="CheckTheDefualtLanguageIsEnglish()[pri:1, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckTheDefualtLanguageIsEnglish" finished-at="2025-01-18T23:51:31 EET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheDefualtLanguageIsEnglish -->
+        <test-method signature="CheckTheDefualtCurrency()[pri:2, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckTheDefualtCurrency" finished-at="2025-01-18T23:51:31 EET" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheDefualtCurrency -->
+        <test-method signature="CheckMobileNumber()[pri:3, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckMobileNumber" finished-at="2025-01-18T23:51:31 EET" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMobileNumber -->
+        <test-method signature="CheckQitafLogo()[pri:4, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckQitafLogo" finished-at="2025-01-18T23:51:31 EET" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckQitafLogo -->
+        <test-method signature="CheckHotelTabIsNotSelected()[pri:5, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckHotelTabIsNotSelected" finished-at="2025-01-18T23:51:31 EET" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckHotelTabIsNotSelected -->
+        <test-method signature="CheckDepatureDate()[pri:6, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckDepatureDate" finished-at="2025-01-18T23:51:31 EET" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepatureDate -->
+        <test-method signature="CheckRuternDate()[pri:7, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="CheckRuternDate" finished-at="2025-01-18T23:51:31 EET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRuternDate -->
+        <test-method signature="RandomlyChangeWebsiteLanguage()[pri:8, instance:myPackage.myTestCases@6ad59d92]" started-at="2025-01-18T23:51:31 EET" name="RandomlyChangeWebsiteLanguage" finished-at="2025-01-18T23:51:48 EET" duration-ms="16392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RandomlyChangeWebsiteLanguage -->
+      </class> <!-- myPackage.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
